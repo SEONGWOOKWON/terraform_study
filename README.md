@@ -1,2 +1,1 @@
-# terraform_study
-t101 assignment page
+# 가시다님의 Terraform 101 Study(T101) 2기 과제 제출용 
